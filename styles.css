@@ -51,6 +51,9 @@
    background-color: rgb(250, 23, 182);
    text-decoration: none;
    padding: 5px;
+   color: rgb(252, 252, 247);
+   font-family: 'Dancing Script', cursive;
+   font-size: 015px;
    border-radius: 10px;
 
 }
@@ -60,9 +63,3 @@
     height:100%;
 }
 
-span{
-   
-    color: rgb(252, 252, 247);
-    font-family: 'Dancing Script', cursive;
-    font-size: 015px;
-}
