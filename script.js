@@ -24,7 +24,7 @@ var x=async function(){
     let z=document.createElement("div")
     z.className="image1"
     z.innerHTML=`<img src=${element.url}
-     alt=" "/>  <a class="but1" href=${element.url} download>Priview</a>` 
+     alt=" "/>  <a class="but1" href=${element.url} download>Preview</a>` 
     imgs.appendChild(z)
       
   }) )
